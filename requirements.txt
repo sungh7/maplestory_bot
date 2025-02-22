@@ -1,0 +1,6 @@
+discord.py
+matplotlib
+aiohttp
+beautifulsoup4
+python-dotenv
+pytz 
